@@ -1,3 +1,5 @@
+### EMI Stress Analysis of Approved Loan Borrowers
+
 ### Introduction
 Even among approved borrowers, certain segments: low to mid income borrowers, short-term loans, debt consolidation or credit card loans, and high revolving credit users carry higher EMI stress and default risk.
 
