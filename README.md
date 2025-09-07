@@ -26,6 +26,8 @@ Credit grades do not fully capture this vulnerability. Banks need a data driven 
 | `revol_util`         | Revolving credit utilization (%)                     | Float      |
 
 
+### Insights from each section:
+
 ### Borrower Characteristics and Risk Behavior
 Low-income borrowers with large loans face the highest EMI stress, regardless of loan purpose or credit card usage. Moderate-risk borrowers, though few, carry high EMIs relative to income, making them early warning candidates. Banks should monitor EMI-to-Income ratios and risk segmentation to identify vulnerable borrowers.
 
